@@ -1,5 +1,7 @@
 # Wizardworks: Programmeringsuppgift
 
+Se PDF för mer detaljerad vy över flödesdiagram etc. [PDF](https://github.com/Wizardworks-AB/programmeringsuppgift/blob/master/Wizardworks%20-%20programmeringsuppgift.pdf)
+
 ## Uppgift
 
 Skapa en webbsida som genererar potentiellt oändligt med kvadrater i en kvadratisk form. För varje knapptryckning på "Lägg till ruta" ska en ny ruta läggas till, och färgen på rutan ska slumpas fram (dock aldrig samma färg som föregående ruta).
