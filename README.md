@@ -40,10 +40,10 @@ Skapa en webbsida som genererar potentiellt oändligt med kvadrater i en kvadrat
 ## FAQ
 
 ### Var ska koden sparas?
-Koden ska sparas på ett publikt GitHub-repository.
+Koden ska sparas på ett publikt Github-repository.
 
 ### Kan jag använda AI-verktyg?
-Absolut! Använd gärna verktyg som ChatGPT och GitHub Copilot för att underlätta din utveckling, men var beredd på att förklara dina val.
+Absolut! Använd gärna verktyg som ChatGPT och Github Copilot för att underlätta din utveckling, men var beredd på att förklara dina val.
 
 ### Måste jag driftsätta lösningen?
 Nej, det räcker med att köra den lokalt.
