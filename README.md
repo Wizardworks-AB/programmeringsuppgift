@@ -51,10 +51,3 @@ Nej, det räcker med att köra den lokalt.
 ---
 
 Lycka till med uppgiften! Om du har några frågor eller stöter på problem, tveka inte att höra av dig.
-
----
-
-### Kontakt
-
-**Wizardworks AB**  
-[www.wizardworks.se](https://www.wizardworks.se)
